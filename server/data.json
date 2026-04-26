@@ -1,0 +1,264 @@
+{
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "+1 (555) 123-4567",
+      "position": "Senior Full Stack Developer",
+      "aiScore": 95,
+      "matchPercentage": 92,
+      "status": "shortlisted",
+      "appliedDate": "2026-02-18",
+      "skills": ["React", "Node.js", "TypeScript", "AWS", "Docker", "PostgreSQL"],
+      "experience": 7,
+      "education": "BS Computer Science, MIT",
+      "location": "San Francisco, CA",
+      "strengths": [
+        "Extensive experience with modern JavaScript frameworks",
+        "Strong system design and architecture skills",
+        "Proven leadership in cross-functional teams",
+        "Open source contributions to major projects"
+      ],
+      "weaknesses": [
+        "Limited experience with machine learning",
+        "No mobile development background"
+      ],
+      "aiInsights": "Exceptional candidate with strong technical background and leadership experience. Profile closely matches job requirements with 92% compatibility. Demonstrated expertise in React and Node.js ecosystems. Recommended for immediate interview."
+    },
+    {
+      "id": "2",
+      "name": "Michael Chen",
+      "email": "m.chen@email.com",
+      "phone": "+1 (555) 234-5678",
+      "position": "Senior Full Stack Developer",
+      "aiScore": 88,
+      "matchPercentage": 85,
+      "status": "reviewing",
+      "appliedDate": "2026-02-17",
+      "skills": ["Python", "Django", "React", "MongoDB", "Kubernetes", "CI/CD"],
+      "experience": 6,
+      "education": "MS Software Engineering, Stanford",
+      "location": "Seattle, WA",
+      "strengths": [
+        "Strong backend development expertise",
+        "Cloud infrastructure management",
+        "Agile methodology experience",
+        "Excellent problem-solving skills"
+      ],
+      "weaknesses": [
+        "Less experience with TypeScript",
+        "Limited frontend design experience"
+      ],
+      "aiInsights": "Strong candidate with solid technical foundation. Backend expertise is particularly impressive. Could benefit from more frontend specialization but has demonstrated ability to learn quickly."
+    },
+    {
+      "id": "3",
+      "name": "Emily Rodriguez",
+      "email": "emily.r@email.com",
+      "phone": "+1 (555) 345-6789",
+      "position": "UX/UI Designer",
+      "aiScore": 92,
+      "matchPercentage": 89,
+      "status": "shortlisted",
+      "appliedDate": "2026-02-16",
+      "skills": ["Figma", "Adobe XD", "User Research", "Prototyping", "Design Systems", "HTML/CSS"],
+      "experience": 5,
+      "education": "BA Design, Rhode Island School of Design",
+      "location": "New York, NY",
+      "strengths": [
+        "Comprehensive user research methodology",
+        "Strong portfolio with B2B and B2C products",
+        "Design system creation and management",
+        "Cross-functional collaboration"
+      ],
+      "weaknesses": [
+        "Limited experience with motion design",
+        "No formal coding background"
+      ],
+      "aiInsights": "Highly qualified designer with excellent portfolio. Strong emphasis on user-centered design and data-driven decisions. Portfolio demonstrates versatility across different product types."
+    },
+    {
+      "id": "4",
+      "name": "David Kumar",
+      "email": "d.kumar@email.com",
+      "phone": "+1 (555) 456-7890",
+      "position": "DevOps Engineer",
+      "aiScore": 90,
+      "matchPercentage": 87,
+      "status": "shortlisted",
+      "appliedDate": "2026-02-15",
+      "skills": ["AWS", "Terraform", "Jenkins", "Docker", "Kubernetes", "Python", "Bash"],
+      "experience": 8,
+      "education": "BS Information Technology, UC Berkeley",
+      "location": "Austin, TX",
+      "strengths": [
+        "Expert-level AWS certification",
+        "Infrastructure as Code expertise",
+        "Security best practices implementation",
+        "Automation and optimization focus"
+      ],
+      "weaknesses": [
+        "Limited experience with Azure/GCP",
+        "No background in application development"
+      ],
+      "aiInsights": "Excellent DevOps candidate with strong cloud infrastructure expertise. AWS certifications and practical experience align well with company's tech stack. Demonstrated cost optimization achievements."
+    },
+    {
+      "id": "5",
+      "name": "Jessica Williams",
+      "email": "j.williams@email.com",
+      "phone": "+1 (555) 567-8901",
+      "position": "Product Manager",
+      "aiScore": 85,
+      "matchPercentage": 82,
+      "status": "reviewing",
+      "appliedDate": "2026-02-14",
+      "skills": ["Product Strategy", "Agile", "Data Analysis", "Roadmapping", "Stakeholder Management", "SQL"],
+      "experience": 6,
+      "education": "MBA, Harvard Business School",
+      "location": "Boston, MA",
+      "strengths": [
+        "Strong product vision and strategy",
+        "Data-driven decision making",
+        "Excellent stakeholder communication",
+        "Experience with SaaS products"
+      ],
+      "weaknesses": [
+        "Limited technical background",
+        "No experience with B2B enterprise products"
+      ],
+      "aiInsights": "Capable product manager with strong business acumen. MBA background and consumer product experience are valuable. Would benefit from technical upskilling for better engineering collaboration."
+    },
+    {
+      "id": "6",
+      "name": "Alex Thompson",
+      "email": "a.thompson@email.com",
+      "phone": "+1 (555) 678-9012",
+      "position": "Data Scientist",
+      "aiScore": 93,
+      "matchPercentage": 90,
+      "status": "shortlisted",
+      "appliedDate": "2026-02-13",
+      "skills": ["Python", "TensorFlow", "PyTorch", "SQL", "R", "Machine Learning", "Statistics"],
+      "experience": 5,
+      "education": "PhD Machine Learning, Carnegie Mellon",
+      "location": "Pittsburgh, PA",
+      "strengths": [
+        "Advanced ML/AI research background",
+        "Published papers in top conferences",
+        "Strong statistical foundations",
+        "Experience with production ML systems"
+      ],
+      "weaknesses": [
+        "Limited business context experience",
+        "No experience with big data tools like Spark"
+      ],
+      "aiInsights": "Outstanding data science candidate with strong academic credentials and practical experience. PhD research directly relevant to company's ML initiatives. High potential for innovation."
+    },
+    {
+      "id": "7",
+      "name": "Robert Martinez",
+      "email": "r.martinez@email.com",
+      "phone": "+1 (555) 789-0123",
+      "position": "Senior Full Stack Developer",
+      "aiScore": 78,
+      "matchPercentage": 75,
+      "status": "pending",
+      "appliedDate": "2026-02-12",
+      "skills": ["Java", "Spring Boot", "Angular", "MySQL", "REST APIs"],
+      "experience": 9,
+      "education": "BS Computer Engineering, Georgia Tech",
+      "location": "Atlanta, GA",
+      "strengths": [
+        "Extensive enterprise development experience",
+        "Strong Java/Spring ecosystem knowledge",
+        "Team leadership experience"
+      ],
+      "weaknesses": [
+        "Outdated frontend framework experience (Angular 2)",
+        "No modern cloud platform experience",
+        "Limited exposure to modern DevOps practices"
+      ],
+      "aiInsights": "Experienced developer but tech stack is somewhat dated compared to job requirements. Would require upskilling in modern frameworks and cloud technologies. Consider for roles requiring enterprise Java expertise."
+    },
+    {
+      "id": "8",
+      "name": "Lisa Anderson",
+      "email": "l.anderson@email.com",
+      "phone": "+1 (555) 890-1234",
+      "position": "UX/UI Designer",
+      "aiScore": 87,
+      "matchPercentage": 84,
+      "status": "reviewing",
+      "appliedDate": "2026-02-11",
+      "skills": ["Sketch", "Figma", "Prototyping", "User Testing", "Interaction Design", "Accessibility"],
+      "experience": 4,
+      "education": "BA Graphic Design, Parsons",
+      "location": "Los Angeles, CA",
+      "strengths": [
+        "Strong focus on accessibility and inclusive design",
+        "Excellent interaction design skills",
+        "User testing and validation expertise"
+      ],
+      "weaknesses": [
+        "Less experience than ideal (4 years)",
+        "Limited experience with complex enterprise products"
+      ],
+      "aiInsights": "Promising designer with strong fundamentals and accessibility focus. Portfolio shows creativity and user-centered approach. Could grow into senior role with mentorship."
+    }
+  ],
+  "positions": [
+    {
+      "id": "1",
+      "title": "Senior Full Stack Developer",
+      "department": "Engineering",
+      "openings": 3,
+      "candidatesApplied": 45,
+      "status": "active",
+      "priority": "high",
+      "createdDate": "2026-01-15"
+    },
+    {
+      "id": "2",
+      "title": "UX/UI Designer",
+      "department": "Design",
+      "openings": 2,
+      "candidatesApplied": 28,
+      "status": "active",
+      "priority": "high",
+      "createdDate": "2026-01-20"
+    },
+    {
+      "id": "3",
+      "title": "DevOps Engineer",
+      "department": "Engineering",
+      "openings": 2,
+      "candidatesApplied": 32,
+      "status": "active",
+      "priority": "medium",
+      "createdDate": "2026-01-25"
+    },
+    {
+      "id": "4",
+      "title": "Product Manager",
+      "department": "Product",
+      "openings": 1,
+      "candidatesApplied": 38,
+      "status": "active",
+      "priority": "medium",
+      "createdDate": "2026-02-01"
+    },
+    {
+      "id": "5",
+      "title": "Data Scientist",
+      "department": "Data & Analytics",
+      "openings": 2,
+      "candidatesApplied": 22,
+      "status": "active",
+      "priority": "high",
+      "createdDate": "2026-02-05"
+    }
+  ]
+}
+
